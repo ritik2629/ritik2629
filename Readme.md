@@ -1,3 +1,8 @@
+<div align ="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7113A&size=29&multiline=true&width=700&lines=Welcome+To+Ritik+Raj's+GitHub+Profile)](https://git.io/typing-svg)
+
+</div>
 <a href="#"><img width="100%" height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
 
 <h1 align="center">ʜɪ ᴀᴍɪɢᴏs, ɪ'ᴍ ʀɪᴛɪᴋ ʀᴀᴊ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
@@ -51,6 +56,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
     <a href="https://github.com/ritik2629" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://app.netlify.com/teams/ritik2629/overview" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"height="48px" width="48px"/> </a>
 
 </p>
 
@@ -58,14 +64,15 @@
 
 <div align ="center">
 
-## 🔗 Connect with me
+## 🔗 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ritikraj2629/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Ritikraj2926"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ritik_x_raj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href = "https://www.facebook.com/ritikraj29/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/> </a>
-
+<a href = "https://t.me/not_found_sorry_error_404"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> </a>
+    
 </p>
     
 <div>
@@ -74,7 +81,7 @@
 ## 📊 My Github Stats
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ritik2629&show_icons=true&hide_border=true&theme=onedark&border_radius=17px" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=ritik2629&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2629&theme=Javascript-dark" width="45%" >
 
