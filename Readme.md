@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="250" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
+<a href="#"><img width="100%" height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
 
 <h1 align="center">ʜɪ ᴀᴍɪɢᴏs, ɪ'ᴍ ʀɪᴛɪᴋ ʀᴀᴊ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
 <h3 align="center">I'm a Learning Software and Web Development ❤ </h3>
