@@ -1,7 +1,7 @@
 <div align ="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7113A&size=29&multiline=true&width=700&lines=Welcome+To+Ritik+Raj's+GitHub+Profile)](https://git.io/typing-svg)
-
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7113A&size=29&multiline=true&width=700&lines=Welcome+To+Ritik+Raj's+GitHub+Profile)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Ritik+Raj+!;Welcome+To+My+GitHub+Profile;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 </div>
 <a href="#"><img width="100%" height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
 
