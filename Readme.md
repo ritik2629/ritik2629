@@ -92,6 +92,11 @@
 <br/>
 
 <div align ="center">
+    
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31bjfqzsttrakcmaikpdqg3m3vsi)
+<br/>
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
