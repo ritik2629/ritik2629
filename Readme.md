@@ -7,7 +7,7 @@
     A 22Y/O Learning Web development🎯.I'm passionate about Full-Stack Web Development📊.And There’s no place like 127.0.0.1😁
 
     
-![age](https://img.shields.io/badge/age-22-blue)
+![age](https://img.shields.io/badge/age-22-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhanbad-red)
     
