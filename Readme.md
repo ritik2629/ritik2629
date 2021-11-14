@@ -14,11 +14,15 @@
     
 </div>
 
-
+<div align ="center">
 
 ## 🙋‍♂️ About Me
 
+    
+ </div>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 
 - 🔭 I’m currently learning at **Newton School**
 
@@ -29,12 +33,14 @@
 - 📫 How to reach me **ritikraj2629@gmail.com**
 
 - ⚡ Fun fact **I love to travel new place and want to explore the whole world.**
+    
+    
+    
+<div align ="center">
 
-
-
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 </br>
-<p align="left"> 
+<p align="center"> 
     <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -46,8 +52,11 @@
 
 </p>
 
+</div>
 
-## 🔗 Connect with me:
+<div align ="center">
+
+## 🔗 Connect with me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ritikraj2629/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -56,6 +65,8 @@
 <a href = "https://www.facebook.com/ritikraj29/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/> </a>
 
 </p>
+    
+<div>
 
 
 ## 📊 My Github Stats
