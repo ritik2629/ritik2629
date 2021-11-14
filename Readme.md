@@ -1,10 +1,11 @@
 <a href="#"><img width="100%" height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
 
 <h1 align="center">ʜɪ ᴀᴍɪɢᴏs, ɪ'ᴍ ʀɪᴛɪᴋ ʀᴀᴊ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
-<h3 align="center">I'm a Learning Software and Web Development ❤ </h3>
+<h3 align="center">Learning Full Stack Web Development (MERN)  <img src="https://c.tenor.com/_UiJbxHvSikAAAAi/love-amor.gif" height="20px" width="20px"> </h3>
 <div align ="center">
     
-    A 22Y/O Learning Software🌈 and Web development🎯 . I'm passionate about Full-Stack Web Development📊 .
+    A 22Y/O Learning Web development🎯.I'm passionate about Full-Stack Web Development📊.And There’s no place like 127.0.0.1😁
+
     
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
@@ -30,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **ritikraj2629@gmail.com**
+- 📫 How to reach me: Follow me on <a href = "https://www.instagram.com/ritik_x_raj/" target="_blank">instagram</a>
 
 - ⚡ Fun fact **I love to travel new place and want to explore the whole world.**
     
