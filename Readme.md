@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="250" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
 
-<h1 align="center">Hi Amigos, I'm Ritik Raj !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a passionate Full Stack Developer and want to learn more</h3>
+<h1 align="center">ʜɪ ᴀᴍɪɢᴏs, ɪ'ᴍ ʀɪᴛɪᴋ ʀᴀᴊ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
+<h3 align="center">I'm a Learning Software and Web Development ❤ </h3>
 <div align ="center">
     
-    
+    A 22Y/O Learning Software🌈 and Web development🎯 . I'm passionate about Full-Stack Web Development📊 .
     
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently learning at **Newton School**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms, NodeJs and ReactJs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -47,6 +47,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
     <a href="https://github.com/ritik2629" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 
