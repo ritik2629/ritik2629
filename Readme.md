@@ -1,18 +1,15 @@
 <div align ="center">
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7113A&size=29&multiline=true&width=700&lines=Welcome+To+Ritik+Raj's+GitHub+Profile)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Ritik+Raj+!+❤;Welcome+To+My+GitHub+Profile;I'm+a+learning+developer...;)](https://git.io/typing-svg)
-</div>
-<a href="#"><img width="100%" height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="100px"/></a>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritik Raj</h1>
 
-<h1 align="center">ʜɪ ᴀᴍɪɢᴏs, ɪ'ᴍ ʀɪᴛɪᴋ ʀᴀᴊ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 <h3 align="center">Learning Full Stack Web Development (MERN)  <img src="https://c.tenor.com/_UiJbxHvSikAAAAi/love-amor.gif" height="20px" width="20px"> </h3>
 <div align ="center">
     
-    A 22Y/O Learning Web development🎯.I'm passionate about Full-Stack Web Development📊.And There’s no place like 127.0.0.1😁
+    I'm passionate about Full-Stack Web Development📊.Love localhost:3000 & :5173😁
 
     
-![age](https://img.shields.io/badge/age-22-blueviolet)
+![react](https://img.shields.io/badge/love-React-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhanbad-red)
     
@@ -20,64 +17,51 @@
     
 </div>
 
-<div align ="center">
+<div align ="left">
     
 ##
     
 ### 🙋‍♂️ About Me :
     
- </div>
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-
-- 🔭 I’m currently learning at **Newton School**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, NodeJs and ReactJs**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me: Follow me on <a href = "https://www.instagram.com/ritik_x_raj/" target="_blank">instagram</a>
-
+- 📫 How to reach me: ritikraj2629@gmail.com
+- 🌐 My website: http://ritikraj.vercel.app
 - ⚡ Fun fact **I love to travel new place and want to explore the whole world.**
     
 ##    
     
-<div align ="center">
+<div align ="left">
 
 ### 🚀 Languages and Tools :
 </br>
-<p align="center"> 
-    <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tailwindcss.png" width="48" height="48"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>   
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
     <a href="https://github.com/ritik2629" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://app.netlify.com/teams/ritik2629/overview" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"height="48px" width="48px"/> </a>
-
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
 </p>
-
 </div>
 
 ##
 
-<div align ="center">
+<div align ="left">
 
 ### 🤝Connect with me :
-<p align="center">
-    
+<p align="left">
 <a href = "https://www.linkedin.com/in/ritikraj2629/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/ig.ritikraj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href = "https://twitter.com/Ritikraj2926"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ritik_x_raj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href = "https://www.facebook.com/ritikraj29/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/> </a>
-<a href = "https://t.me/not_found_sorry_error_404"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> </a>
-    
 </p>
-    
 <div>
  
 ##
