@@ -24,8 +24,8 @@
 ### 🙋‍♂️ About Me :
     
 
-- 📫 How to reach me: ritikraj2629@gmail.com
-- 🌐 My website: http://ritikraj.vercel.app
+- 📫 How to reach me: **ritikraj2629@gmail.com**
+- 🌐 My website: **http://ritikraj.vercel.app**
 - ⚡ Fun fact **I love to travel new place and want to explore the whole world.**
     
 ##    
