@@ -6,7 +6,7 @@
 <h3 align="center">Learning Full Stack Web Development (MERN)  <img src="https://c.tenor.com/_UiJbxHvSikAAAAi/love-amor.gif" height="20px" width="20px"> </h3>
 <div align ="center">
     
-    I'm passionate about Full-Stack Web Development📊.Love localhost:3000 & :5173😁
+    I'm passionate about Full-Stack Web Development📊. localhost:3000 & :5173😁
 
     
 ![react](https://img.shields.io/badge/love-React-blueviolet)
